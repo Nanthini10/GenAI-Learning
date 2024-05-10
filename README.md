@@ -20,3 +20,5 @@ If there is time, I'll create slides or one-pagers that can elaborate on the con
     b. BERT, GPT
 
     c. Understand how LLMs are pretrained.
+
+    d. Fine Tuning - example notebook [Text Classification](01_fine_tuning_text_classification.ipynb)
