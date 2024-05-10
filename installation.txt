@@ -1,0 +1,7 @@
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+conda install conda-forge::transformers
+
+conda install langchain -c conda-forge
+
+conda install datasets sentence-transformers faiss-cpu -c conda-forge
